@@ -1,4 +1,4 @@
-# Introdução a Programação em Python
+# Introdução a Programação em Python para Ciência de Dados
 
 **[Bruna F Faria](https://www.linkedin.com/in/brunafrancielefaria/)** - PhD in Computing, Data Science and Engineering
 
