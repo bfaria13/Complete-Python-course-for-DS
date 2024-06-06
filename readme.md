@@ -1,60 +1,39 @@
 # Introdução a Programação em Python
 
-**Bruna F Faria** - PhD in Computing, Data Science and Engineering
-
-Mentora de Ciência de Dados na Escola Online Mentorama.
+**[Bruna F Faria](https://www.linkedin.com/in/brunafrancielefaria/)** - PhD in Computing, Data Science and Engineering
 
 ***
 
-##### Este projeto visa abordar os principais pontos da programação usando a linguagem Python de forma a garantir que iniciantes adquirem conhecimento necessário para desenvolver suas habilidades como programador.
+##### Este projeto visa abordar os principais pontos da programação usando a linguagem Python de forma a garantir que iniciantes adquirem conhecimento necessário para desenvolver suas habilidades no que tange o uso de Python e seus principais pacotes como ferramentas para acelerar o trabalho com dados no dia a dia.
 
 
+### Sequencia recomendada de estudo:
 
-### Conteúdo do notebook Python_parte1:
+**1. Diretório 01-Python**
 
-A) Introdução do Jupyter-Notebook
+Este conteúdo aborda todos os principais conceitos e aplicações da linguagem Python, permitindo que um iniciante se integre e absorva com facilidade o conhecimento.
 
-B) O que é a linguagem de programação Python?](#s2) <br>
-    
-[1) Variáveis](#s2a) <br>
+Para facilitar o estudo esse módulo possui dois principais notebooks de estudo: `Python_parte1.ipynb` e `Python_parte2.ipynb`
 
-[2) Operadores aritméticos](#s2b) <br>
+**2. Diretório 02-Numpy**
 
-[3) Operadores lógicos](#s2c) <br>
+Neste módulo será apresentado todo ferramental do pacote Numpy e suas principais aplicações facilitando a transposição dos conceitos e aplicações para o contexto real do dia a dia.
 
-[4) Operadores relacionais](#s2d) <br>
+**3. Diretório 03-Pandas**
 
-[5) Operadores de Atribuição](#s2e) <br>
+Após assimilar o uso das estruturas básicas do Python e Numpy, neste ponto haverá uma mescla de todo o conhecimento anterior associado as principais ferramentas do pacote Pandas. Aqui haverá o demonstrativo de todo o caminho ferramental para realizar qualquer tipo de trabalho sobre os dados, desde sua verificação até sua exploração.
 
-[6) Extra](#s2f) <br>
+**4. Diretório 04-Dataviz** (Em construção)
 
-[7) Outras estruturas de Dados](#s2g)
+Este módulo traz exemplos de diferentes aplicações de visualização de dados, tais como: Matplotlib, Seaborn e Plotly. Além disso, a idealização da construção de um dashboard personalizado para análise e exploração visual dos dados.
 
-   [A) Listas](#g1) <br>
-   [B) Tuplas](#g2) <br>
-   [C) Dicionários](#g3) <br>
-   [D) Conjuntos](#g4) <br>
+**5. Diretório 05-DataExplore** (Em construção)
 
+Por fim, um case prático aplicando todas as ferramentas vista anteriormente baseado em um roteiro de análise e exploração de dados como principal ferramenta para gerar insights e definir proximos passos.
 
+___
+Sempre que utilizar esse repo lembre de citá-lo e disseminar o conhecimento.
 
-### Conteúdo do notebook Python_parte2:
+Desenvolvido por: [Bruna Franciele Faria](https://www.linkedin.com/in/brunafrancielefaria/), PhD in Computing, Data Science and Engineering.
 
-[1) Estruturas de decisão e repetição](#s1) <br>
-
-   [A) Estruturas de decisão](#s1a)<br>
-   [B) Estruturas de repetição](#s1b)<br>
-   [C) Combinando as estruturas](#s1c)<br>
-    
-[2) Erros e exceções](#s2) <br>
-    
-[3) Métodos e funções](#s3) <br>
-
-   [A) Funções](#s3a) <br>
-   [B) Métodos](#s3b) <br>
-
-[4) Módulos e pacotes](#s4) <br>
-
-[5) Programação orientada a objetos (POO)](#s5)<br>
-
-
-
+Caso queira deixar comentários ou sugestões, basta enviar via [LinkedIn](https://www.linkedin.com/in/brunafrancielefaria/).
